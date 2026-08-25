@@ -11,6 +11,14 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "@elastic/elasticsearch": "^8.17.0"
+    "@elastic/elasticsearch": "^8.17.0",
+    "@langchain/community": "^1.1.29",
+    "@langchain/core": "^1.2.9",
+    "@langchain/langgraph": "^1.4.12",
+    "@langchain/openai": "^1.5.10",
+    "@zilliz/milvus2-sdk-node": "^3.0.4",
+    "dotenv": "^16.6.1",
+    "langchain": "^1.5.10",
+    "zod": "^3.25.76"
   }
 }
